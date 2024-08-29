@@ -46,7 +46,7 @@ Source repository: https://github.com/artintel/artintel
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=artintel&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
 <!-- https://github.com/star-history/star-history -->
-<img src="https://api.star-history.com/svg?repos=artintel/InsightFace_Pytorch,artintel/LearningCode,artintel/artintel,artintel/Learning_Project,artintel/High-Performance-Linux-Server-Programming&type=Date&theme=dark" />
+<img src="https://api.star-history.com/svg?repos=artintel/InsightFace_Pytorch,artintel/LearningCode,artintel/Learning_Project,artintel/High-Performance-Linux-Server-Programming&type=Date&theme=dark" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=artintel&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
