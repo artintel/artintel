@@ -62,6 +62,7 @@ Source repository: https://github.com/artintel/artintel
 <a href="https://github.com/artintel"><img src="https://img.shields.io/badge/GitHub-artintel-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-3074099684-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<a href="https://blog.csdn.net/qq_39274501"><img src="https://img.shields.io/badge/CSDN-Artintel-blue?logo=csdn&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=artintel&abbreviated=true&color=yellow" />
 </p>
 
